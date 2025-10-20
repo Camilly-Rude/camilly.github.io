@@ -12,10 +12,10 @@
    <p> Eu gosto de ler clássicos brasileiros e britânicos. 
 Alguns dos meus livros favoritos são: O Triste Fim de Policarpo Quaresma, Memórias Póstumas de Brás Cubas, Frankenstein, Drácula e Alice no País das Maravilhas.
 <p><strong>Musica:</strong></p>
-<p>Música: Meu gênero musical favorito é o rock, mas tambem ouço blues, samba, jazz e MPB.
-Minha banda favorita são os The Beatles. Outros artistas que eu curto: David Bowie, Raul Seixas, Chico Buarque, Billie Holiday, Nina Simone, Os Mutantes, Cartola, Queen e Black Sabbath.</p>
+<p>Meu gênero musical favorito é o rock, mas tambem ouço blues, samba, jazz e MPB e minha banda favorita é The Beatles.
+Outros artistas que eu curto: David Bowie, Raul Seixas, Chico Buarque, Billie Holiday, Nina Simone, Os Mutantes, Cartola, Queen e Black Sabbath.</p>
 <p><strong>Seção Livre sobre seu trabalho ou local de estudo:</strong></p>
-<p><p>
+<p>Eu faço Ciência da Computação na universidade federal de Alfenas e atualmente estou no primeiro período.<p>
 <p><strong>Formação Academica:</strong><p>
   <p>Unifal – Alfenas– Minas Gerais • Graduação, 2025 – 20??<p>
   <p><strong>Contato:</strong><p>
