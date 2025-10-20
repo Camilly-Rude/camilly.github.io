@@ -18,4 +18,9 @@ Minha banda favorita são os The Beatles. Outros artistas que eu curto: David Bo
 <p><p>
 <p><strong>Formação Academica:</strong><p>
   <p>Unifal – Alfenas– Minas Gerais • Graduação, 2025 – 20??<p>
-  
+  <p><strong>Contato:</strong><p>
+<ul>
+<li>camilly.oliveira@sou.unifal-mg.edu.br</li> 
+ <li>Unifal-Santa Clara</li>
+</ul>
+  <p>Rua das Maravilhas - Silent Hill - 42</p>
