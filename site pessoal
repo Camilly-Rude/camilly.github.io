@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <h1>Camilly Vitória Da Silva Oliveira</h1>
