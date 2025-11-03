@@ -1,5 +1,6 @@
 <html>
-<head>
+<head
+    <link ref="stylesheet" h ref = "css"> >
     <h1>Camilly Vitória Da Silva Oliveira</h1>
   <body>
 <h3>Sobre Mim:</h3>
